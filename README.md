@@ -48,7 +48,8 @@ Une fois le bios prêt, il est nécessaire d'installer VirtualBox, le logiciel q
 
 3. Lancez Virtual Box et importez la configuration
 
-4. Lancez la **VM** en cliquant sur démarrer, :warning: : Au démarage de KALI, appuyez sur la touche entrée. (voir si dessous)
+4. Lancez la **VM** en cliquant sur démarrer,   
+:warning: : Au démarage de KALI, appuyez sur la touche entrée. (voir si dessous)
 
 ![KALI](assets/kali.png)
 
