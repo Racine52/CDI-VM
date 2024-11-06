@@ -44,7 +44,7 @@ Une fois le bios prêt, il est nécessaire d'installer VirtualBox, le logiciel q
 - [MacOS Intel](https://download.virtualbox.org/virtualbox/7.1.4/VirtualBox-7.1.4-165100-OSX.dmg)
 
 
-2. Téléchargez la config VirtualBox [ici](https://ipsafr-my.sharepoint.com/personal/titouan_millet_ipsa_fr/_layouts/15/onedrive.aspx?id=/personal/titouan_millet_ipsa_fr/Documents/Kali.ova&parent=/personal/titouan_millet_ipsa_fr/Documents&ga=1)
+2. Téléchargez la config VirtualBox [ici](https://ipsafr-my.sharepoint.com/:u:/g/personal/titouan_millet_ipsa_fr/EWkW9DErlwtOtZtO802c-a0Be01By3I7CKUNRUSRG5FruA)
 
 3. Lancez Virtual Box et importez la configuration
 
